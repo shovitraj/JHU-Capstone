@@ -1,0 +1,67 @@
+/* slide titles */
+.section .reveal .state-background {
+background: black;
+}
+
+.reveal .state-background {
+background: #FDF6E3;
+background-size: cover;
+}
+.section .reveal p {
+
+color: rgb(255, 255, 255);
+text-align:left; 
+line-height: 0.1em;
+margin-top: 70px;
+}
+.section .reveal h1, .section .reveal h2, .section {
+
+color: #b2a173;
+margin-top: 50px;
+}
+.reveal pre code {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  background-color: #3F3F3F;
+  color: #EEE8D5;
+  border: none;
+  text-align:center; 
+  font-size: 30px;
+  position: fixed; top: 90%;
+  text-align:center;
+  }
+.reveal h3 { 
+  font-size: 65px;
+  color: white;
+}
+.reveal h4 { 
+  font-size: 35px;
+  color: #B58900;
+}
+
+.reveal a {
+color: #CB4B16;
+font-weight: bold;
+
+}
+
+.reveal a:not(.image) {
+    color: #2AA198;
+    text-decoration: none;
+    -webkit-transition: color .15s ease;
+    -moz-transition: color .15s ease;
+    -ms-transition: color .15s ease;
+    -o-transition: color .15s ease;
+    transition: color .15s ease;
+}
+
+.reveal blockquote {
+    padding: 40px;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    background-color: transparent;
+    border: none;
+    font-style: italic;
+}
+

@@ -1,0 +1,12 @@
+name: ShinyWordPred
+title: ShinyWordPred
+username:
+account: shovitraj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2661759
+bundleId: 3503834
+url: https://shovitraj.shinyapps.io/ShinyWordPred/
+when: 1597188649.52836
+asMultiple: FALSE
+asStatic: FALSE
