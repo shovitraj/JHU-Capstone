@@ -9,6 +9,6 @@ The goal of this exercise is to create a product to highlight the prediciton alg
 
 
 
-[Milestone Report](https://rpubs.com/shovitraj/638777)
-[Shiny App](https://shovitraj.shinyapps.io/ShinyWordPred/)
-[Pitch Slide]()
+[Milestone Report](https://rpubs.com/shovitraj/638777)  
+[Shiny App](https://shovitraj.shinyapps.io/ShinyWordPred/)  
+[Pitch Slide](https://rpubs.com/shovitraj/CapstoneFinal)  
