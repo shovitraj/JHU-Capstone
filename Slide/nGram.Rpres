@@ -40,7 +40,7 @@ Algorithm and Prediction
 
 The Shiny App
 ========================================================
-Here is a link to the application which provides all the necessary instructions.
+Here is a link to the [application](https://shovitraj.shinyapps.io/ShinyWordPred/) which provides all the necessary instructions.
 ![Shiny](Shiny.png)   
 
 [GitHub](https://github.com/shovitraj/JHU-Capstone)
